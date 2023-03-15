@@ -1,2 +1,18 @@
-# Ticket-Bot-Select-
-Ticket Bot [Select]
+BY User | Nicklas#1504
+
+BY https://discord.gg/NrePrKw5rK
+
+
+## Bot Setup
+
+npm install
+
+## Bot Start
+
+node bot.js
+
+## INFOS 
+
+In Zeile "120" kommt dein Bot Token
+In Zeile "116" kommt die ID der Team Rolle und in Zeile "79"
+In Zeile "68" kommt die ID der Ticketkategorie rein
